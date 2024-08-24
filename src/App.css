@@ -1,0 +1,17 @@
+.ant-menu-item-selected {
+  background-color: #75757d !important;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.ant-spin-dot-holder {
+  color: #75757d !important;
+}

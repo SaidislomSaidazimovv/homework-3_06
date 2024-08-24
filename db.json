@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "productName": "olcha",
+      "productPrice": "3000",
+      "productType": "1",
+      "productDate": "2024-08-24",
+      "id": "b8ef"
+    },
+    {
+      "id": "98da",
+      "productName": "rayhon",
+      "productPrice": "100",
+      "productType": "3",
+      "productDate": "2024-08-30"
+    },
+    {
+      "id": "fc11",
+      "productName": "Sabzi",
+      "productPrice": "3000",
+      "productType": "2",
+      "productDate": "2024-08-28"
+    }
+  ]
+}
